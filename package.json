@@ -1,0 +1,13 @@
+{
+  "name": "hyperterm-frosty-cobalt-theme",
+  "version": "1.0.0",
+  "description": "A Cobalt2 customised theme for Hyper",
+  "main": "index.js",
+  "keywords": [
+    "hyper",
+    "theme",
+    "color scheme"
+  ],
+  "author": "K97",
+  "license": "MIT"
+}
